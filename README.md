@@ -2,7 +2,7 @@
 - Command line tools: git, pip, brew, node and npm
 - [Download and install](https://www.python.org/downloads/) python 64 bit version >= 3.8.1
 - [Download and install](https://docs.docker.com/get-started/#download-and-install-docker) docker
-- from command prompt: <b>docker pull mongo</b> to download docket image
+- from command prompt run the command: '<b>docker pull mongo</b>' to download docket image
 <br>
 
 #### Setup Framework ####

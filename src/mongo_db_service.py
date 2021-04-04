@@ -26,8 +26,13 @@ class MongoDbService:
         return self.dbcol.find({'is_modified': is_modified})
 
     def modify(self, number_of_entries):
+        # Define update field.
         update = {"$set": {'is_modified': True}}
+
+        # get number of entries with is_modified=false.
         results = self.get_by_modified_value(False).limit(number_of_entries)
+
+        # For each entry change is_modified fielkd from false to true.
         for entry in results:
             self.dbcol.update_one({'_id': entry['_id']}, update)
 
