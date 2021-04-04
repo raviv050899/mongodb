@@ -38,4 +38,4 @@ class Tests(BaseTests):
 
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='C:/Users/raviv/Downloads/nms/reports'))
+    unittest.main()
