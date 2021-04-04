@@ -6,7 +6,11 @@
 <br>
 
 #### Setup Framework ####
-1. `git clone git@gitlab-centos.corp.aeroscout.com:automation/products-automation-framework.git` <br>
+1. `clone the respository from https://github.com/raviv050899/mongodb` <br>
 2. `cd mongodb` <br>
 3. `sudo pip install -r requirements.txt`<br>
 <br>
+
+#### Running test from command line ####
+1. cd to respository main folder:<br>
+ run the command `python -m unittest src\tests\tests.py`<br>
