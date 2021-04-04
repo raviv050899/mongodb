@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac5e3abf-9ee8-4ff5-8334-1372fe6c6a7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mongodb" />
+  </component>
+  <component name="ProjectId" id="1qQzb7olZ3k7wZexrgxChZRICVW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raviv\Downloads\nms\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in tests.py">
+    <configuration name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mongo_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.Tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mongo_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.Tests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.Tests.test_print_entries" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mongo_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.Tests.test_print_entries&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.Tests.test_validate_modify_entries" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mongo_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.Tests.test_validate_modify_entries&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mongo_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/tests/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in tests.py" />
+        <item itemvalue="Python tests.Unittests for tests.Tests.test_validate_modify_entries" />
+        <item itemvalue="Python tests.Unittests for tests.Tests.test_print_entries" />
+        <item itemvalue="Python tests.Unittests for tests.Tests" />
+        <item itemvalue="Python.debug" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac5e3abf-9ee8-4ff5-8334-1372fe6c6a7b" name="Default Changelist" comment="" />
+      <created>1617023803699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617023803699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="344" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617280108698">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="828" y="344" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1617280108698" />
+    <state width="1203" height="466" key="DebuggerActiveHint" timestamp="1617269090898">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1203" height="466" key="DebuggerActiveHint/0.0.2194.1194@0.0.2194.1194" timestamp="1617269090898" />
+    <state x="878" y="352" key="FileChooserDialogImpl" timestamp="1617511347877">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="878" y="352" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1617511347877" />
+    <state width="2173" height="234" key="GridCell.Tab.0.bottom" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state width="2173" height="234" key="GridCell.Tab.0.center" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state width="2173" height="234" key="GridCell.Tab.0.left" timestamp="1617292858486">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858486" />
+    <state width="2173" height="234" key="GridCell.Tab.0.right" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state width="2173" height="234" key="GridCell.Tab.1.bottom" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state width="2173" height="234" key="GridCell.Tab.1.center" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state width="2173" height="234" key="GridCell.Tab.1.left" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state width="2173" height="234" key="GridCell.Tab.1.right" timestamp="1617292858487">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2173" height="234" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1617292858487" />
+    <state x="606" y="239" key="SettingsEditor" timestamp="1617511425111">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="606" y="239" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1617511425111" />
+    <state x="725" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617179293590">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="725" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2194.1194@0.0.2194.1194" timestamp="1617179293590" />
+    <state x="791" y="195" width="612" height="804" key="find.popup" timestamp="1617101644690">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="791" y="195" width="612" height="804" key="find.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1617101644690" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="config.get('docker', 'base_command')" language="Python" />
+      </configuration>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.config.get('mongodb', 'address')" language="Python" />
+        <watch expression="'{base} {stop} {id}'.format(base=self.config.get('docker', 'base_command'),                                                    stop=self.config.get('docker', 'stop_container'),                                                    id=self.id)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
